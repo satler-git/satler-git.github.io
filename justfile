@@ -5,3 +5,6 @@ run:
 
 format-all:
   yarn biome format --write src\
+
+build:
+  yarn run build
